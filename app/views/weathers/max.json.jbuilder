@@ -1,0 +1,1 @@
+json.max_temperature @max_temperature

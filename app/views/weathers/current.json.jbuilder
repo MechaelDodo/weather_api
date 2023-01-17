@@ -1,0 +1,1 @@
+json.current_temperature @current_temperature

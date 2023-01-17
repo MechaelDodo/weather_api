@@ -1,0 +1,1 @@
+json.min_temperature @min_temperature
